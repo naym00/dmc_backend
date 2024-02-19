@@ -1,0 +1,333 @@
+ID,username,InTime,device_id,group_id,employee_id
+2650,nayem,2024-01-23 08:56:18+00:00,DmcGate1,Group object (2),DMC13
+2651,nayem,2024-01-23 08:56:15+00:00,DmcGate1,Group object (2),DMC13
+2652,Miraz,2024-01-23 06:41:35+00:00,DmcGate1,Group object (1),DMC1
+2653,Sathay Akter,2024-01-23 06:12:37+00:00,DmcGate1,Group object (2),EMP_004
+2654,Mr. Tanim,2024-01-22 14:42:22+00:00,DmcGate1,Group object (3),EMP_006
+2655,Mr. Tanim,2024-01-22 14:42:19+00:00,DmcGate1,Group object (3),EMP_006
+2656,Mr. Tanim,2024-01-22 14:42:16+00:00,DmcGate1,Group object (3),EMP_006
+2657,Mr. Tanim,2024-01-22 14:42:13+00:00,DmcGate1,Group object (3),EMP_006
+2658,Mr. Tanim,2024-01-22 14:42:10+00:00,DmcGate1,Group object (3),EMP_006
+2659,Mr. Tanim,2024-01-22 14:42:07+00:00,DmcGate1,Group object (3),EMP_006
+2660,Mr. Tanim,2024-01-22 14:42:04+00:00,DmcGate1,Group object (3),EMP_006
+2661,MASUD,2024-01-22 12:42:10+00:00,DmcGate1,Group object (2),DMC15
+2662,MASUD,2024-01-22 12:41:56+00:00,DmcGate1,Group object (2),DMC15
+2663,MASUD,2024-01-22 12:41:53+00:00,DmcGate1,Group object (2),DMC15
+2664,MASUD,2024-01-22 12:41:40+00:00,DmcGate1,Group object (2),DMC15
+2665,MASUD,2024-01-22 12:41:30+00:00,DmcGate1,Group object (2),DMC15
+2666,MASUD,2024-01-22 12:41:23+00:00,DmcGate1,Group object (2),DMC15
+2667,MASUD,2024-01-22 12:41:20+00:00,DmcGate1,Group object (2),DMC15
+2668,MASUD,2024-01-22 12:41:17+00:00,DmcGate1,Group object (2),DMC15
+2669,Miraz,2024-01-22 11:17:48+00:00,DmcGate1,Group object (1),DMC1
+2670,Miraz,2024-01-22 11:17:15+00:00,DmcGate1,Group object (1),DMC1
+2671,Sathay Akter,2024-01-22 09:37:37+00:00,DmcGate1,Group object (2),EMP_004
+2672,Mosharrof,2024-01-21 12:29:30+00:00,DmcGate1,Group object (1),DMC2
+2673,Miraz,2024-01-21 12:23:09+00:00,DmcGate1,Group object (1),DMC1
+2674,Sathay Akter,2024-01-21 07:25:00+00:00,DmcGate1,Group object (2),EMP_004
+2675,nayem,2024-01-21 06:25:26+00:00,DmcGate1,Group object (2),DMC13
+2676,nayem,2024-01-21 06:22:29+00:00,DmcGate1,Group object (2),DMC13
+2677,nayem,2024-01-21 06:22:04+00:00,DmcGate1,Group object (2),DMC13
+2678,nayem,2024-01-21 06:21:57+00:00,DmcGate1,Group object (2),DMC13
+2679,nayem,2024-01-21 06:21:48+00:00,DmcGate1,Group object (2),DMC13
+2680,nayem,2024-01-21 06:21:43+00:00,DmcGate1,Group object (2),DMC13
+2681,nayem,2024-01-21 06:18:52+00:00,DmcGate1,Group object (2),DMC13
+2682,nayem,2024-01-21 06:18:49+00:00,DmcGate1,Group object (2),DMC13
+2683,nayem,2024-01-21 06:18:46+00:00,DmcGate1,Group object (2),DMC13
+2684,nayem,2024-01-21 06:18:42+00:00,DmcGate1,Group object (2),DMC13
+2685,nayem,2024-01-21 06:18:38+00:00,DmcGate1,Group object (2),DMC13
+2686,nayem,2024-01-21 06:18:35+00:00,DmcGate1,Group object (2),DMC13
+2687,nayem,2024-01-18 11:43:14+00:00,DmcGate1,Group object (2),DMC13
+2688,nayem,2024-01-18 10:41:34+00:00,DmcGate1,Group object (2),DMC13
+2689,nayem,2024-01-18 10:41:30+00:00,DmcGate1,Group object (2),DMC13
+2690,nayem,2024-01-18 10:41:27+00:00,DmcGate1,Group object (2),DMC13
+2691,nayem,2024-01-18 10:41:13+00:00,DmcGate1,Group object (2),DMC13
+2692,Mr. Tanim,2024-01-18 10:39:45+00:00,DmcGate1,Group object (3),EMP_006
+2693,Mr. Tanim,2024-01-18 10:39:42+00:00,DmcGate1,Group object (3),EMP_006
+2694,nayem,2024-01-18 09:36:19+00:00,DmcGate1,Group object (2),DMC13
+2695,nayem,2024-01-18 09:21:33+00:00,DmcGate1,Group object (2),DMC13
+2696,nayem,2024-01-18 09:10:54+00:00,DmcGate1,Group object (2),DMC13
+2697,nayem,2024-01-18 09:10:09+00:00,DmcGate1,Group object (2),DMC13
+2698,Sathay Akter,2024-01-18 09:08:57+00:00,DmcGate1,Group object (2),EMP_004
+2699,Sathay Akter,2024-01-18 09:08:54+00:00,DmcGate1,Group object (2),EMP_004
+2700,Sathay Akter,2024-01-18 09:02:15+00:00,DmcGate1,Group object (2),EMP_004
+2701,Sathay Akter,2024-01-18 09:02:12+00:00,DmcGate1,Group object (2),EMP_004
+2702,nayem,2024-01-18 07:58:13+00:00,DmcGate1,Group object (2),DMC13
+2703,nayem,2024-01-18 07:57:47+00:00,DmcGate1,Group object (2),DMC13
+2704,nayem,2024-01-18 07:57:34+00:00,DmcGate1,Group object (2),DMC13
+2705,nayem,2024-01-18 07:57:31+00:00,DmcGate1,Group object (2),DMC13
+2706,nayem,2024-01-18 07:55:36+00:00,DmcGate1,Group object (2),DMC13
+2707,nayem,2024-01-18 07:55:28+00:00,DmcGate1,Group object (2),DMC13
+2708,nayem,2024-01-18 07:55:23+00:00,DmcGate1,Group object (2),DMC13
+2709,nayem,2024-01-18 07:55:07+00:00,DmcGate1,Group object (2),DMC13
+2710,Mosharrof,2024-01-18 07:52:12+00:00,DmcGate1,Group object (1),DMC2
+2711,Mosharrof,2024-01-18 07:52:09+00:00,DmcGate1,Group object (1),DMC2
+2712,Mosharrof,2024-01-18 07:51:56+00:00,DmcGate1,Group object (1),DMC2
+2713,Mosharrof,2024-01-18 07:51:50+00:00,DmcGate1,Group object (1),DMC2
+2714,Mosharrof,2024-01-18 07:51:37+00:00,DmcGate1,Group object (1),DMC2
+2715,Mosharrof,2024-01-18 07:51:17+00:00,DmcGate1,Group object (1),DMC2
+2716,Mosharrof,2024-01-18 07:51:14+00:00,DmcGate1,Group object (1),DMC2
+2717,Mosharrof,2024-01-18 07:51:10+00:00,DmcGate1,Group object (1),DMC2
+2718,nayem,2024-01-18 07:41:17+00:00,DmcGate1,Group object (2),DMC13
+2719,nayem,2024-01-18 03:01:02+00:00,DmcGate1,Group object (2),DMC13
+2720,MASUD,2024-01-17 15:51:09+00:00,DmcGate1,Group object (2),DMC15
+2721,MASUD,2024-01-17 15:50:44+00:00,DmcGate1,Group object (2),DMC15
+2722,MASUD,2024-01-17 15:50:34+00:00,DmcGate1,Group object (2),DMC15
+2723,MASUD,2024-01-17 15:50:16+00:00,DmcGate1,Group object (2),DMC15
+2724,Mr. Tanim,2024-01-17 15:39:41+00:00,DmcGate1,Group object (3),EMP_006
+2725,Miraz,2024-01-17 15:14:32+00:00,DmcGate1,Group object (1),DMC1
+2726,Miraz,2024-01-17 15:14:29+00:00,DmcGate1,Group object (1),DMC1
+2727,Miraz,2024-01-17 15:14:26+00:00,DmcGate1,Group object (1),DMC1
+2728,Miraz,2024-01-17 15:14:23+00:00,DmcGate1,Group object (1),DMC1
+2729,Miraz,2024-01-17 15:14:20+00:00,DmcGate1,Group object (1),DMC1
+2730,Miraz,2024-01-17 15:14:17+00:00,DmcGate1,Group object (1),DMC1
+2731,Ibrahim,2024-01-17 14:16:09+00:00,DmcGate1,Group object (4),DMC25
+2732,MASUD,2024-01-17 14:11:10+00:00,DmcGate1,Group object (2),DMC15
+2733,MASUD,2024-01-17 12:26:38+00:00,DmcGate1,Group object (2),DMC15
+2734,MASUD,2024-01-17 12:26:29+00:00,DmcGate1,Group object (2),DMC15
+2735,MASUD,2024-01-17 12:26:25+00:00,DmcGate1,Group object (2),DMC15
+2736,MASUD,2024-01-17 12:26:22+00:00,DmcGate1,Group object (2),DMC15
+2737,nayem,2024-01-17 11:53:26+00:00,DmcGate1,Group object (2),DMC13
+2738,nayem,2024-01-17 11:53:22+00:00,DmcGate1,Group object (2),DMC13
+2739,nayem,2024-01-17 11:53:08+00:00,DmcGate1,Group object (2),DMC13
+2740,Rumon,2024-01-17 11:36:39+00:00,DmcGate1,Group object (3),EMP_005
+2741,Miraz,2024-01-17 07:24:20+00:00,DmcGate1,Group object (1),DMC1
+2742,Miraz,2024-01-17 07:24:10+00:00,DmcGate1,Group object (1),DMC1
+2743,Miraz,2024-01-17 07:24:07+00:00,DmcGate1,Group object (1),DMC1
+2744,nayem,2024-01-17 07:18:05+00:00,DmcGate1,Group object (2),DMC13
+2745,nayem,2024-01-17 03:59:27+00:00,DmcGate1,Group object (2),DMC13
+2746,Miraz,2024-01-16 15:24:31+00:00,DmcGate1,Group object (1),DMC1
+2747,Miraz,2024-01-16 15:16:21+00:00,DmcGate1,Group object (1),DMC1
+2748,Miraz,2024-01-16 15:15:57+00:00,DmcGate1,Group object (1),DMC1
+2749,Mr. Tanim,2024-01-16 15:14:24+00:00,DmcGate1,Group object (3),EMP_006
+2750,Miraz,2024-01-16 14:10:01+00:00,DmcGate1,Group object (1),DMC1
+2751,MASUD,2024-01-16 13:54:14+00:00,DmcGate1,Group object (2),DMC15
+2752,MASUD,2024-01-16 13:54:06+00:00,DmcGate1,Group object (2),DMC15
+2753,Ibrahim,2024-01-16 13:33:42+00:00,DmcGate1,Group object (4),DMC25
+2754,Ibrahim,2024-01-16 13:33:32+00:00,DmcGate1,Group object (4),DMC25
+2755,Ibrahim,2024-01-16 13:33:13+00:00,DmcGate1,Group object (4),DMC25
+2756,Ibrahim,2024-01-16 13:32:38+00:00,DmcGate1,Group object (4),DMC25
+2757,MASUD,2024-01-16 13:32:16+00:00,DmcGate1,Group object (2),DMC15
+2758,Mr. Tanim,2024-01-16 13:29:59+00:00,DmcGate1,Group object (3),EMP_006
+2759,Mr. Tanim,2024-01-16 13:29:56+00:00,DmcGate1,Group object (3),EMP_006
+2760,Mr. Tanim,2024-01-16 13:29:50+00:00,DmcGate1,Group object (3),EMP_006
+2761,Mr. Tanim,2024-01-16 13:29:47+00:00,DmcGate1,Group object (3),EMP_006
+2762,Mr. Tanim,2024-01-16 13:29:43+00:00,DmcGate1,Group object (3),EMP_006
+2763,Mr. Tanim,2024-01-16 13:29:41+00:00,DmcGate1,Group object (3),EMP_006
+2764,Mr. Tanim,2024-01-16 13:23:29+00:00,DmcGate1,Group object (3),EMP_006
+2765,Mr. Tanim,2024-01-16 13:23:26+00:00,DmcGate1,Group object (3),EMP_006
+2766,Mr. Tanim,2024-01-16 13:23:23+00:00,DmcGate1,Group object (3),EMP_006
+2767,Mr. Tanim,2024-01-16 13:23:20+00:00,DmcGate1,Group object (3),EMP_006
+2768,Mr. Tanim,2024-01-16 13:23:17+00:00,DmcGate1,Group object (3),EMP_006
+2769,Mr. Tanim,2024-01-16 13:23:13+00:00,DmcGate1,Group object (3),EMP_006
+2770,Mr. Tanim,2024-01-16 13:23:10+00:00,DmcGate1,Group object (3),EMP_006
+2771,Mr. Tanim,2024-01-16 13:23:07+00:00,DmcGate1,Group object (3),EMP_006
+2772,Mr. Tanim,2024-01-16 13:23:04+00:00,DmcGate1,Group object (3),EMP_006
+2773,Mr. Tanim,2024-01-16 13:23:01+00:00,DmcGate1,Group object (3),EMP_006
+2774,Mr. Tanim,2024-01-16 13:22:57+00:00,DmcGate1,Group object (3),EMP_006
+2775,Mr. Tanim,2024-01-16 13:22:52+00:00,DmcGate1,Group object (3),EMP_006
+2776,Mr. Tanim,2024-01-16 13:22:49+00:00,DmcGate1,Group object (3),EMP_006
+2777,Mr. Tanim,2024-01-16 13:22:42+00:00,DmcGate1,Group object (3),EMP_006
+2778,Mr. Tanim,2024-01-16 13:22:33+00:00,DmcGate1,Group object (3),EMP_006
+2779,MASUD,2024-01-16 12:42:39+00:00,DmcGate1,Group object (2),DMC15
+2780,nayem,2024-01-16 11:52:21+00:00,DmcGate1,Group object (2),DMC13
+2781,nayem,2024-01-16 10:15:44+00:00,DmcGate1,Group object (2),DMC13
+2782,nayem,2024-01-16 10:08:59+00:00,DmcGate1,Group object (2),DMC13
+2783,nayem,2024-01-16 07:46:46+00:00,DmcGate1,Group object (2),DMC13
+2784,nayem,2024-01-16 07:30:14+00:00,DmcGate1,Group object (2),DMC13
+2785,nayem,2024-01-16 07:30:08+00:00,DmcGate1,Group object (2),DMC13
+2786,nayem,2024-01-16 07:30:05+00:00,DmcGate1,Group object (2),DMC13
+2787,nayem,2024-01-16 07:30:02+00:00,DmcGate1,Group object (2),DMC13
+2788,nayem,2024-01-16 07:29:59+00:00,DmcGate1,Group object (2),DMC13
+2789,nayem,2024-01-16 07:29:55+00:00,DmcGate1,Group object (2),DMC13
+2790,nayem,2024-01-16 07:29:53+00:00,DmcGate1,Group object (2),DMC13
+2791,nayem,2024-01-16 07:27:42+00:00,DmcGate1,Group object (2),DMC13
+2792,Ibrahim,2024-01-16 05:53:52+00:00,DmcGate1,Group object (4),DMC25
+2793,Sathay Akter,2024-01-16 03:16:27+00:00,DmcGate1,Group object (2),EMP_004
+2794,Sathay Akter,2024-01-16 03:16:24+00:00,DmcGate1,Group object (2),EMP_004
+2795,Sathay Akter,2024-01-16 02:51:11+00:00,DmcGate1,Group object (2),EMP_004
+2796,Sathay Akter,2024-01-16 02:51:04+00:00,DmcGate1,Group object (2),EMP_004
+2797,Sathay Akter,2024-01-16 02:50:51+00:00,DmcGate1,Group object (2),EMP_004
+2798,Sathay Akter,2024-01-16 02:50:39+00:00,DmcGate1,Group object (2),EMP_004
+2799,Sathay Akter,2024-01-16 02:50:34+00:00,DmcGate1,Group object (2),EMP_004
+2800,Sathay Akter,2024-01-16 02:50:27+00:00,DmcGate1,Group object (2),EMP_004
+2801,Sathay Akter,2024-01-16 02:50:24+00:00,DmcGate1,Group object (2),EMP_004
+2802,Sathay Akter,2024-01-16 02:50:20+00:00,DmcGate1,Group object (2),EMP_004
+2803,Sathay Akter,2024-01-16 02:50:17+00:00,DmcGate1,Group object (2),EMP_004
+2804,Sathay Akter,2024-01-16 02:50:14+00:00,DmcGate1,Group object (2),EMP_004
+2805,Sathay Akter,2024-01-16 02:50:12+00:00,DmcGate1,Group object (2),EMP_004
+2806,Sathay Akter,2024-01-16 02:50:08+00:00,DmcGate1,Group object (2),EMP_004
+2807,Sathay Akter,2024-01-16 02:50:04+00:00,DmcGate1,Group object (2),EMP_004
+2808,Mr. Tanim,2024-01-15 15:01:31+00:00,DmcGate1,Group object (3),EMP_006
+2809,Mr. Tanim,2024-01-15 15:01:28+00:00,DmcGate1,Group object (3),EMP_006
+2810,Mr. Tanim,2024-01-15 15:01:25+00:00,DmcGate1,Group object (3),EMP_006
+2811,Mr. Tanim,2024-01-15 15:01:22+00:00,DmcGate1,Group object (3),EMP_006
+2812,Mr. Tanim,2024-01-15 15:01:19+00:00,DmcGate1,Group object (3),EMP_006
+2813,Mr. Tanim,2024-01-15 12:09:25+00:00,DmcGate1,Group object (3),EMP_006
+2814,Rashed,2024-01-15 12:04:50+00:00,DmcGate1,Group object (2),DMC6
+2815,Mr. Tanim,2024-01-15 10:31:02+00:00,DmcGate1,Group object (3),EMP_006
+2816,Mosharrof,2024-01-15 09:53:23+00:00,DmcGate1,Group object (1),DMC2
+2817,nayem,2024-01-15 09:31:02+00:00,DmcGate1,Group object (2),DMC13
+2818,nayem,2024-01-15 07:24:06+00:00,DmcGate1,Group object (2),DMC13
+2819,Sathay Akter,2024-01-15 06:18:13+00:00,DmcGate1,Group object (2),EMP_004
+2820,nayem,2024-01-15 04:54:31+00:00,DmcGate1,Group object (2),DMC13
+2821,Sathay Akter,2024-01-15 02:55:05+00:00,DmcGate1,Group object (2),EMP_004
+2822,Sathay Akter,2024-01-15 02:54:43+00:00,DmcGate1,Group object (2),EMP_004
+2823,MASUD,2024-01-14 14:34:53+00:00,DmcGate1,Group object (2),DMC15
+2824,MASUD,2024-01-14 14:32:40+00:00,DmcGate1,Group object (2),DMC15
+2825,Mr. Tanim,2024-01-14 14:00:45+00:00,DmcGate1,Group object (3),EMP_006
+2826,MASUD,2024-01-14 13:47:48+00:00,DmcGate1,Group object (2),DMC15
+2827,MASUD,2024-01-14 13:47:01+00:00,DmcGate1,Group object (2),DMC15
+2828,MASUD,2024-01-14 13:46:51+00:00,DmcGate1,Group object (2),DMC15
+2829,MASUD,2024-01-14 12:31:06+00:00,DmcGate1,Group object (2),DMC15
+2830,MASUD,2024-01-14 12:31:00+00:00,DmcGate1,Group object (2),DMC15
+2831,MASUD,2024-01-14 12:30:53+00:00,DmcGate1,Group object (2),DMC15
+2832,MASUD,2024-01-14 12:30:50+00:00,DmcGate1,Group object (2),DMC15
+2833,MASUD,2024-01-14 12:30:47+00:00,DmcGate1,Group object (2),DMC15
+2834,MASUD,2024-01-14 12:28:29+00:00,DmcGate1,Group object (2),DMC15
+2835,Sathay Akter,2024-01-14 12:01:42+00:00,DmcGate1,Group object (2),EMP_004
+2836,Sathay Akter,2024-01-14 10:42:36+00:00,DmcGate1,Group object (2),EMP_004
+2837,Sathay Akter,2024-01-14 10:28:54+00:00,DmcGate1,Group object (2),EMP_004
+2838,Miraz,2024-01-14 10:20:20+00:00,DmcGate1,Group object (1),DMC1
+2839,Miraz,2024-01-14 10:20:17+00:00,DmcGate1,Group object (1),DMC1
+2840,Miraz,2024-01-14 10:20:14+00:00,DmcGate1,Group object (1),DMC1
+2841,Miraz,2024-01-14 10:20:09+00:00,DmcGate1,Group object (1),DMC1
+2842,Miraz,2024-01-14 10:20:03+00:00,DmcGate1,Group object (1),DMC1
+2843,Sathay Akter,2024-01-14 10:13:52+00:00,DmcGate1,Group object (2),EMP_004
+2844,Sathay Akter,2024-01-14 08:36:57+00:00,DmcGate1,Group object (2),EMP_004
+2845,nayem,2024-01-14 07:28:48+00:00,DmcGate1,Group object (2),DMC13
+2846,Ibrahim,2024-01-11 13:47:15+00:00,DmcGate1,Group object (4),DMC25
+2847,Ibrahim,2024-01-11 13:44:13+00:00,DmcGate1,Group object (4),DMC25
+2848,Rumon,2024-01-11 12:25:54+00:00,DmcGate1,Group object (3),EMP_005
+2849,Rumon,2024-01-11 12:25:51+00:00,DmcGate1,Group object (3),EMP_005
+2850,Rumon,2024-01-11 12:25:48+00:00,DmcGate1,Group object (3),EMP_005
+2851,Rumon,2024-01-11 12:25:45+00:00,DmcGate1,Group object (3),EMP_005
+2852,Rumon,2024-01-11 12:25:42+00:00,DmcGate1,Group object (3),EMP_005
+2853,Rumon,2024-01-11 12:25:35+00:00,DmcGate1,Group object (3),EMP_005
+2854,Rashed,2024-01-11 12:25:29+00:00,DmcGate1,Group object (2),DMC6
+2855,Rashed,2024-01-11 12:25:13+00:00,DmcGate1,Group object (2),DMC6
+2856,Rashed,2024-01-11 12:24:18+00:00,DmcGate1,Group object (2),DMC6
+2857,Rashed,2024-01-11 12:19:18+00:00,DmcGate1,Group object (2),DMC6
+2858,Rumon,2024-01-11 12:18:11+00:00,DmcGate1,Group object (3),EMP_005
+2859,Rashed,2024-01-11 12:17:24+00:00,DmcGate1,Group object (2),DMC6
+2860,Rumon,2024-01-11 12:17:12+00:00,DmcGate1,Group object (3),EMP_005
+2861,Rashed,2024-01-11 12:17:08+00:00,DmcGate1,Group object (2),DMC6
+2862,Rashed,2024-01-11 12:17:02+00:00,DmcGate1,Group object (2),DMC6
+2863,Rashed,2024-01-11 12:16:45+00:00,DmcGate1,Group object (2),DMC6
+2864,Rashed,2024-01-11 12:16:10+00:00,DmcGate1,Group object (2),DMC6
+2865,rezvi,2024-01-11 12:13:22+00:00,DmcGate1,Group object (4),1
+2866,rezvi,2024-01-11 12:13:19+00:00,DmcGate1,Group object (4),1
+2867,rezvi,2024-01-11 12:13:16+00:00,DmcGate1,Group object (4),1
+2868,rezvi,2024-01-11 12:13:12+00:00,DmcGate1,Group object (4),1
+2869,rezvi,2024-01-11 12:08:51+00:00,DmcGate1,Group object (4),1
+2870,nayem,2024-01-11 11:53:31+00:00,DmcGate1,Group object (2),DMC13
+2871,nayem,2024-01-11 11:53:28+00:00,DmcGate1,Group object (2),DMC13
+2872,nayem,2024-01-11 11:51:04+00:00,DmcGate1,Group object (2),DMC13
+2873,nayem,2024-01-11 11:50:59+00:00,DmcGate1,Group object (2),DMC13
+2874,rezvi,2024-01-11 10:59:53+00:00,DmcGate1,Group object (4),1
+2875,nayem,2024-01-11 10:42:44+00:00,DmcGate1,Group object (2),DMC13
+2876,rezvi,2024-01-11 10:32:33+00:00,DmcGate1,Group object (4),1
+2877,rezvi,2024-01-11 10:32:20+00:00,DmcGate1,Group object (4),1
+2878,rezvi,2024-01-11 10:31:24+00:00,DmcGate1,Group object (4),1
+2879,rezvi,2024-01-11 10:27:27+00:00,DmcGate1,Group object (4),1
+2880,Mosharrof,2024-01-11 09:01:40+00:00,DmcGate1,Group object (1),DMC2
+2881,rezvi,2024-01-11 09:01:38+00:00,DmcGate1,Group object (4),1
+2882,rezvi,2024-01-11 07:38:28+00:00,DmcGate1,Group object (4),1
+2883,nayem,2024-01-11 07:38:11+00:00,DmcGate1,Group object (2),DMC13
+2884,Mosharrof,2024-01-11 06:57:29+00:00,DmcGate1,Group object (1),DMC2
+2885,nayem,2024-01-11 06:34:36+00:00,DmcGate1,Group object (2),DMC13
+2886,nayem,2024-01-11 06:34:33+00:00,DmcGate1,Group object (2),DMC13
+2887,nayem,2024-01-11 06:34:30+00:00,DmcGate1,Group object (2),DMC13
+2888,nayem,2024-01-11 06:34:27+00:00,DmcGate1,Group object (2),DMC13
+2889,nayem,2024-01-11 06:34:24+00:00,DmcGate1,Group object (2),DMC13
+2890,nayem,2024-01-11 06:33:31+00:00,DmcGate1,Group object (2),DMC13
+2891,rezvi,2024-01-11 04:26:47+00:00,DmcGate1,Group object (4),1
+2892,rezvi,2024-01-11 04:24:08+00:00,DmcGate1,Group object (4),1
+2893,rezvi,2024-01-11 03:17:32+00:00,DmcGate1,Group object (4),1
+2894,rezvi,2024-01-11 03:17:32+00:00,DmcGate1,Group object (4),1
+2895,Sathay Akter,2024-01-11 03:05:30+00:00,DmcGate1,Group object (2),EMP_004
+2896,Rumon,2024-01-11 02:53:51+00:00,DmcGate1,Group object (3),EMP_005
+2897,Miraz,2024-01-10 13:47:26+00:00,DmcGate1,Group object (1),DMC1
+2898,MASUD,2024-01-10 13:43:09+00:00,DmcGate1,Group object (2),DMC15
+2899,rezvi,2024-01-10 12:25:24+00:00,DmcGate1,Group object (4),1
+2900,Rumon,2024-01-10 12:03:40+00:00,DmcGate1,Group object (3),EMP_005
+2901,rezvi,2024-01-10 11:58:25+00:00,DmcGate1,Group object (4),1
+2902,Mosharrof,2024-01-10 11:53:14+00:00,DmcGate1,Group object (1),DMC2
+2903,rezvi,2024-01-10 11:51:24+00:00,DmcGate1,Group object (4),1
+2904,Ibrahim,2024-01-10 11:07:08+00:00,DmcGate1,Group object (4),DMC25
+2905,Ibrahim,2024-01-10 11:07:04+00:00,DmcGate1,Group object (4),DMC25
+2906,Ibrahim,2024-01-10 11:07:01+00:00,DmcGate1,Group object (4),DMC25
+2907,Ibrahim,2024-01-10 11:06:59+00:00,DmcGate1,Group object (4),DMC25
+2908,rezvi,2024-01-10 11:06:37+00:00,DmcGate1,Group object (4),1
+2909,rezvi,2024-01-10 10:41:52+00:00,DmcGate1,Group object (4),1
+2910,nayem,2024-01-10 10:24:39+00:00,DmcGate1,Group object (2),DMC13
+2911,nayem,2024-01-10 10:24:19+00:00,DmcGate1,Group object (2),DMC13
+2912,nayem,2024-01-10 10:23:04+00:00,DmcGate1,Group object (2),DMC13
+2913,nayem,2024-01-10 10:21:59+00:00,DmcGate1,Group object (2),DMC13
+2914,nayem,2024-01-10 10:21:56+00:00,DmcGate1,Group object (2),DMC13
+2915,nayem,2024-01-10 10:21:53+00:00,DmcGate1,Group object (2),DMC13
+2916,nayem,2024-01-10 10:21:50+00:00,DmcGate1,Group object (2),DMC13
+2917,rezvi,2024-01-10 09:30:37+00:00,DmcGate1,Group object (4),1
+2918,rezvi,2024-01-10 09:29:47+00:00,DmcGate1,Group object (4),1
+2919,rezvi,2024-01-10 09:24:57+00:00,DmcGate1,Group object (4),1
+2920,rezvi,2024-01-10 09:24:48+00:00,DmcGate1,Group object (4),1
+2921,Mosharrof,2024-01-10 09:22:39+00:00,DmcGate1,Group object (1),DMC2
+2922,PRINCE,2024-01-24 05:44:40+00:00,DmcGate2,Group object (4),1
+2923,PRINCE,2024-01-24 05:44:30+00:00,DmcGate2,Group object (4),1
+2924,PRINCE,2024-01-24 03:34:13+00:00,DmcGate2,Group object (4),1
+2925,PRINCE,2024-01-24 03:34:10+00:00,DmcGate2,Group object (4),1
+2926,PRINCE,2024-01-23 06:46:11+00:00,DmcGate2,Group object (4),1
+2927,PRINCE,2024-01-23 05:37:20+00:00,DmcGate2,Group object (4),1
+2928,PRINCE,2024-01-23 05:36:49+00:00,DmcGate2,Group object (4),1
+2929,PRINCE,2024-01-23 05:36:43+00:00,DmcGate2,Group object (4),1
+2930,PRINCE,2024-01-23 05:36:39+00:00,DmcGate2,Group object (4),1
+2931,PRINCE,2024-01-23 05:36:36+00:00,DmcGate2,Group object (4),1
+2932,PRINCE,2024-01-23 05:36:06+00:00,DmcGate2,Group object (4),1
+2933,PRINCE,2024-01-23 05:35:58+00:00,DmcGate2,Group object (4),1
+2934,PRINCE,2024-01-23 05:35:55+00:00,DmcGate2,Group object (4),1
+2935,PRINCE,2024-01-23 05:34:47+00:00,DmcGate2,Group object (4),1
+2936,PRINCE,2024-01-23 05:34:44+00:00,DmcGate2,Group object (4),1
+2937,PRINCE,2024-01-23 05:34:39+00:00,DmcGate2,Group object (4),1
+2938,PRINCE,2024-01-23 05:33:18+00:00,DmcGate2,Group object (4),1
+2939,PRINCE,2024-01-23 05:33:15+00:00,DmcGate2,Group object (4),1
+2940,PRINCE,2024-01-23 05:25:24+00:00,DmcGate2,Group object (4),1
+2941,PRINCE,2024-01-23 05:25:17+00:00,DmcGate2,Group object (4),1
+2942,PRINCE,2024-01-23 05:23:26+00:00,DmcGate2,Group object (4),1
+2943,PRINCE,2024-01-23 05:21:24+00:00,DmcGate2,Group object (4),1
+2944,PRINCE,2024-01-23 05:21:20+00:00,DmcGate2,Group object (4),1
+2945,PRINCE,2024-01-23 05:21:09+00:00,DmcGate2,Group object (4),1
+2946,PRINCE,2024-01-23 05:21:06+00:00,DmcGate2,Group object (4),1
+2947,PRINCE,2024-01-23 05:21:03+00:00,DmcGate2,Group object (4),1
+2948,PRINCE,2024-01-23 05:20:54+00:00,DmcGate2,Group object (4),1
+2949,PRINCE,2024-01-23 05:19:42+00:00,DmcGate2,Group object (4),1
+2950,PRINCE,2024-01-23 05:18:46+00:00,DmcGate2,Group object (4),1
+2951,PRINCE,2024-01-23 04:15:21+00:00,DmcGate2,Group object (4),1
+2952,PRINCE,2024-01-23 04:04:44+00:00,DmcGate2,Group object (4),1
+2953,PRINCE,2024-01-23 04:04:43+00:00,DmcGate2,Group object (4),1
+2954,PRINCE,2024-01-23 04:04:39+00:00,DmcGate2,Group object (4),1
+2955,PRINCE,2024-01-23 04:04:36+00:00,DmcGate2,Group object (4),1
+2956,PRINCE,2024-01-23 04:02:32+00:00,DmcGate2,Group object (4),1
+2957,PRINCE,2024-01-23 04:01:41+00:00,DmcGate2,Group object (4),1
+2958,PRINCE,2024-01-23 04:01:38+00:00,DmcGate2,Group object (4),1
+2959,PRINCE,2024-01-23 03:59:58+00:00,DmcGate2,Group object (4),1
+2960,PRINCE,2024-01-23 03:59:34+00:00,DmcGate2,Group object (4),1
+2961,PRINCE,2024-01-23 03:59:10+00:00,DmcGate2,Group object (4),1
+2962,PRINCE,2024-01-23 03:59:07+00:00,DmcGate2,Group object (4),1
+2963,PRINCE,2024-01-23 03:59:04+00:00,DmcGate2,Group object (4),1
+2964,PRINCE,2024-01-23 03:59:01+00:00,DmcGate2,Group object (4),1
+2965,PRINCE,2024-01-23 03:58:34+00:00,DmcGate2,Group object (4),1
+2966,PRINCE,2024-01-23 03:58:32+00:00,DmcGate2,Group object (4),1
+2967,PRINCE,2024-01-23 03:56:57+00:00,DmcGate2,Group object (4),1
+2968,PRINCE,2024-01-23 03:55:35+00:00,DmcGate2,Group object (4),1
+2969,PRINCE,2024-01-23 03:55:32+00:00,DmcGate2,Group object (4),1
+2970,PRINCE,2024-01-23 03:55:29+00:00,DmcGate2,Group object (4),1
+2971,PRINCE,2024-01-23 03:55:26+00:00,DmcGate2,Group object (4),1
+2972,PRINCE,2024-01-23 03:55:23+00:00,DmcGate2,Group object (4),1
+2973,PRINCE,2024-01-23 03:54:45+00:00,DmcGate2,Group object (4),1
+2974,PRINCE,2024-01-23 03:54:44+00:00,DmcGate2,Group object (4),1
+2975,PRINCE,2024-01-23 03:54:15+00:00,DmcGate2,Group object (4),1
+2976,PRINCE,2024-01-23 03:54:07+00:00,DmcGate2,Group object (4),1
+2977,PRINCE,2024-01-23 03:54:04+00:00,DmcGate2,Group object (4),1
+2978,PRINCE,2024-01-23 03:54:01+00:00,DmcGate2,Group object (4),1
+2979,PRINCE,2024-01-23 03:53:53+00:00,DmcGate2,Group object (4),1
+2980,PRINCE,2024-01-23 03:53:50+00:00,DmcGate2,Group object (4),1
+2981,PRINCE,2024-01-23 03:53:12+00:00,DmcGate2,Group object (4),1

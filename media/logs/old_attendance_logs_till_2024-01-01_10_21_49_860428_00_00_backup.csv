@@ -1,0 +1,7 @@
+ID,username,InTime,OutTime,total_work_minutes,cumalative_work_minutes,device_id,group_id,employee_id
+4375,Moshiur Rahman Shondhi,2023-12-27 14:24:16+00:00,2023-12-31 18:00:00+00:00,0,0,DmcGate10,Group object (2),DMC24
+4376,Moshiur Rahman Shondhi,2023-12-27 14:24:19+00:00,2023-12-31 18:00:00+00:00,0,0,DmcGate10,Group object (2),DMC24
+4377,Moshiur Rahman Shondhi,2023-12-27 14:24:22+00:00,2023-12-31 18:00:00+00:00,0,0,DmcGate10,Group object (2),DMC24
+4378,Moshiur Rahman Shondhi,2023-12-27 14:24:25+00:00,2023-12-31 18:00:00+00:00,0,0,DmcGate10,Group object (2),DMC24
+4379,ca,2023-12-28 12:07:05+00:00,2023-12-31 12:23:20+00:00,0,0,DmcGate10,Group object (2),test_dmc31
+4380,ba,2023-12-31 12:28:50+00:00,2023-12-31 18:00:00+00:00,0,0,DmcGate10,Group object (2),test_dmc21

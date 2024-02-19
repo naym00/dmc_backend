@@ -1,0 +1,99 @@
+ID,username,InTime,device_id,group_id,employee_id
+2297,Abul Kalam Azad,2023-12-27 05:30:50+00:00,DmcGate10,Group object (2),DMC1113
+2298,b,2023-12-27 05:48:07+00:00,DmcGate10,Group object (2),test_dmc2
+2299,b,2023-12-27 05:48:17+00:00,DmcGate10,Group object (2),test_dmc2
+2300,Abul Kalam Azad,2023-12-27 05:49:31+00:00,DmcGate10,Group object (2),DMC1113
+2301,f,2023-12-27 06:08:35+00:00,DmcGate10,Group object (2),test_dmc6
+2302,d,2023-12-27 06:54:18+00:00,DmcGate10,Group object (2),test_dmc4
+2303,,2023-12-27 06:57:12+00:00,DmcGate10,Group object (2),1
+2304,Miraz,2023-12-27 06:58:57+00:00,DmcGate10,Group object (2),DMC2
+2305,Miraz,2023-12-27 06:59:00+00:00,DmcGate10,Group object (2),DMC2
+2306,Abul Kalam Azad,2023-12-27 07:03:28+00:00,DmcGate10,Group object (2),DMC1113
+2307,a,2023-12-27 07:08:34+00:00,DmcGate10,Group object (2),test_dmc1
+2308,b,2023-12-27 07:13:14+00:00,DmcGate10,Group object (2),test_dmc2
+2309,b,2023-12-27 07:13:14+00:00,DmcGate10,Group object (2),test_dmc2
+2310,aa,2023-12-27 07:26:22+00:00,DmcGate10,Group object (2),test_dmc11
+2311,a,2023-12-27 07:26:25+00:00,DmcGate10,Group object (2),test_dmc1
+2312,a,2023-12-27 07:26:28+00:00,DmcGate10,Group object (2),test_dmc1
+2313,aa,2023-12-27 07:26:31+00:00,DmcGate10,Group object (2),test_dmc11
+2314,Abul Kalam Azad,2023-12-27 07:30:35+00:00,DmcGate10,Group object (2),DMC1113
+2315,b,2023-12-27 07:33:36+00:00,DmcGate10,Group object (2),test_dmc2
+2316,,2023-12-27 07:41:27+00:00,DmcGate10,Group object (2),1
+2317,,2023-12-27 07:48:31+00:00,DmcGate10,Group object (2),1
+2318,Princ,2023-12-27 07:54:02+00:00,DmcGate10,Group object (2),DMC1115
+2319,da,2023-12-27 07:54:11+00:00,DmcGate10,Group object (2),test_dmc41
+2320,Princ,2023-12-27 07:56:16+00:00,DmcGate10,Group object (2),DMC1115
+2321,Abul Kalam Azad,2023-12-27 08:01:27+00:00,DmcGate10,Group object (2),DMC1113
+2322,Mihal,2023-12-27 08:01:33+00:00,DmcGate10,Group object (2),DMC1114
+2323,,2023-12-27 08:26:31+00:00,DmcGate10,Group object (2),1
+2324,Princ,2023-12-27 08:47:41+00:00,DmcGate10,Group object (2),DMC1115
+2325,b,2023-12-27 08:47:45+00:00,DmcGate10,Group object (2),test_dmc2
+2326,ja,2023-12-27 09:07:35+00:00,DmcGate10,Group object (2),test_dmc91
+2327,Abul Kalam Azad,2023-12-27 09:11:19+00:00,DmcGate10,Group object (2),DMC1113
+2328,Miraz,2023-12-27 09:14:23+00:00,DmcGate10,Group object (2),DMC2
+2329,Miraz,2023-12-27 09:14:26+00:00,DmcGate10,Group object (2),DMC2
+2330,Miraz,2023-12-27 09:14:30+00:00,DmcGate10,Group object (2),DMC2
+2331,Miraz,2023-12-27 09:14:33+00:00,DmcGate10,Group object (2),DMC2
+2332,Miraz,2023-12-27 09:14:36+00:00,DmcGate10,Group object (2),DMC2
+2333,aa,2023-12-27 09:14:54+00:00,DmcGate10,Group object (2),test_dmc11
+2334,b,2023-12-27 09:20:16+00:00,DmcGate10,Group object (2),test_dmc2
+2335,b,2023-12-27 09:20:19+00:00,DmcGate10,Group object (2),test_dmc2
+2336,b,2023-12-27 09:20:22+00:00,DmcGate10,Group object (2),test_dmc2
+2337,b,2023-12-27 09:20:25+00:00,DmcGate10,Group object (2),test_dmc2
+2338,Princ,2023-12-27 09:27:10+00:00,DmcGate10,Group object (2),DMC1115
+2339,d,2023-12-27 09:40:58+00:00,DmcGate10,Group object (2),test_dmc4
+2340,Miraz,2023-12-27 10:09:12+00:00,DmcGate10,Group object (2),DMC2
+2341,aa,2023-12-27 10:23:46+00:00,DmcGate10,Group object (2),test_dmc11
+2342,ja,2023-12-27 10:25:33+00:00,DmcGate10,Group object (2),test_dmc91
+2343,h,2023-12-27 10:27:29+00:00,DmcGate10,Group object (2),test_dmc8
+2344,h,2023-12-27 10:27:36+00:00,DmcGate10,Group object (2),test_dmc8
+2345,h,2023-12-27 10:27:39+00:00,DmcGate10,Group object (2),test_dmc8
+2346,h,2023-12-27 10:27:42+00:00,DmcGate10,Group object (2),test_dmc8
+2347,Princ,2023-12-27 10:27:45+00:00,DmcGate10,Group object (2),DMC1115
+2348,h,2023-12-27 10:28:10+00:00,DmcGate10,Group object (2),test_dmc8
+2349,h,2023-12-27 10:28:13+00:00,DmcGate10,Group object (2),test_dmc8
+2350,h,2023-12-27 10:28:16+00:00,DmcGate10,Group object (2),test_dmc8
+2351,b,2023-12-27 10:35:01+00:00,DmcGate10,Group object (2),test_dmc2
+2352,h,2023-12-27 10:35:28+00:00,DmcGate10,Group object (2),test_dmc8
+2353,a,2023-12-27 11:34:15+00:00,DmcGate10,Group object (2),test_dmc1
+2354,da,2023-12-27 11:35:34+00:00,DmcGate10,Group object (2),test_dmc41
+2355,Abul Kalam Azad,2023-12-27 11:35:36+00:00,DmcGate10,Group object (2),DMC1113
+2356,Abul Kalam Azad,2023-12-27 11:35:39+00:00,DmcGate10,Group object (2),DMC1113
+2357,Abul Kalam Azad,2023-12-27 11:42:24+00:00,DmcGate10,Group object (2),DMC1113
+2358,Princ,2023-12-27 11:42:49+00:00,DmcGate10,Group object (2),DMC1115
+2359,Princ,2023-12-27 11:42:52+00:00,DmcGate10,Group object (2),DMC1115
+2360,Princ,2023-12-27 11:42:55+00:00,DmcGate10,Group object (2),DMC1115
+2361,Princ,2023-12-27 11:42:59+00:00,DmcGate10,Group object (2),DMC1115
+2362,Princ,2023-12-27 11:43:03+00:00,DmcGate10,Group object (2),DMC1115
+2363,Princ,2023-12-27 11:43:06+00:00,DmcGate10,Group object (2),DMC1115
+2364,Princ,2023-12-27 11:43:09+00:00,DmcGate10,Group object (2),DMC1115
+2365,Princ,2023-12-27 11:43:12+00:00,DmcGate10,Group object (2),DMC1115
+2366,Princ,2023-12-27 11:43:15+00:00,DmcGate10,Group object (2),DMC1115
+2367,Princ,2023-12-27 11:43:19+00:00,DmcGate10,Group object (2),DMC1115
+2368,Princ,2023-12-27 11:43:22+00:00,DmcGate10,Group object (2),DMC1115
+2369,Princ,2023-12-27 11:43:26+00:00,DmcGate10,Group object (2),DMC1115
+2370,Princ,2023-12-27 11:43:29+00:00,DmcGate10,Group object (2),DMC1115
+2371,Princ,2023-12-27 11:43:43+00:00,DmcGate10,Group object (2),DMC1115
+2372,h,2023-12-27 11:45:31+00:00,DmcGate10,Group object (2),test_dmc8
+2373,a,2023-12-27 11:58:52+00:00,DmcGate10,Group object (2),test_dmc1
+2374,a,2023-12-27 11:58:52+00:00,DmcGate10,Group object (2),test_dmc1
+2375,da,2023-12-27 12:02:13+00:00,DmcGate10,Group object (2),test_dmc41
+2376,da,2023-12-27 12:05:11+00:00,DmcGate10,Group object (2),test_dmc41
+2377,Abul Kalam Azad,2023-12-27 12:09:47+00:00,DmcGate10,Group object (2),DMC1113
+2378,Abul Kalam Azad,2023-12-27 12:10:21+00:00,DmcGate10,Group object (2),DMC1113
+2379,h,2023-12-27 12:11:30+00:00,DmcGate10,Group object (2),test_dmc8
+2380,Abul Kalam Azad,2023-12-27 12:11:48+00:00,DmcGate10,Group object (2),DMC1113
+2381,Abul Kalam Azad,2023-12-27 12:11:54+00:00,DmcGate10,Group object (2),DMC1113
+2382,Abul Kalam Azad,2023-12-27 12:21:41+00:00,DmcGate10,Group object (2),DMC1113
+2383,aa,2023-12-27 12:21:43+00:00,DmcGate10,Group object (2),test_dmc11
+2384,tanim_Test,2023-12-27 13:50:31+00:00,DmcGate10,Group object (2),DMC653
+2385,tanim_Test,2023-12-27 13:50:34+00:00,DmcGate10,Group object (2),DMC653
+2386,tanim_Test,2023-12-27 13:50:37+00:00,DmcGate10,Group object (2),DMC653
+2387,tanim_Test,2023-12-27 13:50:40+00:00,DmcGate10,Group object (2),DMC653
+2388,tanim_Test,2023-12-27 13:50:44+00:00,DmcGate10,Group object (2),DMC653
+2389,Moshiur Rahman Shondhi,2023-12-27 14:24:16+00:00,DmcGate10,Group object (2),DMC24
+2390,Moshiur Rahman Shondhi,2023-12-27 14:24:19+00:00,DmcGate10,Group object (2),DMC24
+2391,Moshiur Rahman Shondhi,2023-12-27 14:24:22+00:00,DmcGate10,Group object (2),DMC24
+2392,Moshiur Rahman Shondhi,2023-12-27 14:24:25+00:00,DmcGate10,Group object (2),DMC24
+2393,tanim_Test,2023-12-27 14:24:27+00:00,DmcGate10,Group object (2),DMC653
+2394,tanim_Test,2023-12-27 14:24:30+00:00,DmcGate10,Group object (2),DMC653

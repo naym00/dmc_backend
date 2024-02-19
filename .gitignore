@@ -1,0 +1,6 @@
+venv/
+virtualenv/
+env/
+dmc/.env
+.env
+test.rest

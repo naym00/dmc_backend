@@ -1,0 +1,3 @@
+ID,username,InTime,OutTime,total_work_minutes,cumalative_work_minutes,device_id,group_id,employee_id
+3214,Nazmul HS,2024-02-06 12:04:06+00:00,2024-02-06 12:19:21+00:00,0,0,GATE001,Group object (7),789
+3215,Nazmul HS,2024-02-06 12:04:06+00:00,2024-02-06 12:19:21+00:00,0,0,GATE001,Group object (7),789

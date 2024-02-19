@@ -1,0 +1,5 @@
+ID,username,InTime,OutTime,total_work_minutes,cumalative_work_minutes,device_id,group_id,employee_id
+3096,Shimul,2024-02-04 02:52:03+00:00,2024-02-04 02:52:11+00:00,0,0,NEWDEVICE,Group object (7),666
+3097,Tanim SH,2024-02-04 02:58:32+00:00,2024-02-04 03:06:06+00:00,0,0,NEWDEVICE,Group object (7),7778
+3098,Nazmul HS,2024-02-04 02:59:24+00:00,2024-02-04 03:01:37+00:00,0,0,NEWDEVICE,Group object (7),789
+3099,nayem,2024-02-04 03:02:08+00:00,2024-02-04 03:02:08+00:00,0,0,NEWDEVICE,Group object (2),DMC13

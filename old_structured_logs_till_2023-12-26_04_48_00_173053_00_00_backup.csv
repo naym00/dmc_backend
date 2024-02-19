@@ -1,0 +1,11 @@
+employee_id,username,email,password,group_id,shift_id
+test_dmc1,a,a@gmail.com,123,2,2
+test_dmc2,b,b@gmail.com,124,2,2
+test_dmc3,c,c@gmail.com,125,2,2
+test_dmc4,d,d@gmail.com,126,2,2
+test_dmc5,e,e@gmail.com,127,2,2
+test_dmc6,f,f@gmail.com,128,2,2
+test_dmc7,g,g@gmail.com,129,2,2
+test_dmc8,h,h@gmail.com,130,2,2
+test_dmc9,i,i@gmail.com,131,2,2
+test_dmc10,j,j@gmail.com,132,2,2

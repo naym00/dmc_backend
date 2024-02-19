@@ -1,0 +1,4 @@
+ID,username,InTime,OutTime,total_work_minutes,cumalative_work_minutes,device_id,group_id,employee_id
+3271,worthy,2024-02-12 17:25:07+00:00,2024-02-12 17:43:54+00:00,0,0,DMC GATE 1,Group object (13),44744
+3272,worthy,2024-02-12 17:25:07+00:00,2024-02-12 17:43:54+00:00,0,0,DMC GATE 1,Group object (13),44744
+3273,bithy,2024-02-12 17:43:36+00:00,2024-02-12 17:43:49+00:00,0,0,DMC GATE 1,Group object (9),45565

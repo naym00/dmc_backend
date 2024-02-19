@@ -1,0 +1,6 @@
+r_clsf_record_id,CardName,InTime,RecNo,RoomNumber,Status,Type,image_url,device_id,employee_id
+790,Abul Kalam Azad,2023-12-27 11:30:50+00:00,336,,1,Entry,/SnapShotFilePath/2023-12-27/13/30/DMC1113_99_100_20231227133050933.jpg,DmcGate10,DMC1113
+791,b,2023-12-27 11:48:07+00:00,337,,1,Entry,/SnapShotFilePath/2023-12-27/13/48/test_dmc2_99_100_20231227134807078.jpg,DmcGate10,test_dmc2
+792,b,2023-12-27 11:48:17+00:00,338,,1,Entry,/SnapShotFilePath/2023-12-27/13/48/test_dmc2_96_100_20231227134817933.jpg,DmcGate10,test_dmc2
+793,Abul Kalam Azad,2023-12-27 11:49:31+00:00,340,,1,Entry,/SnapShotFilePath/2023-12-27/13/49/DMC1113_99_100_20231227134931227.jpg,DmcGate10,DMC1113
+794,f,2023-12-27 12:08:35+00:00,343,,1,Entry,/SnapShotFilePath/2023-12-27/14/08/test_dmc6_99_100_20231227140835118.jpg,DmcGate10,test_dmc6

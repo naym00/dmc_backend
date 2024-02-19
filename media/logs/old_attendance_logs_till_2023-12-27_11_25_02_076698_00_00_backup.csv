@@ -1,0 +1,4 @@
+ID,username,InTime,OutTime,total_work_minutes,cumalative_work_minutes,device_id,group_id,employee_id
+788,rezvi,2023-12-27 11:16:09+00:00,2023-12-27 11:16:09+00:00,0,0,DmcGate10,Group object (2),1
+789,rezvi,2023-12-27 11:16:39+00:00,2023-12-27 11:16:39+00:00,0,0,DmcGate10,Group object (2),1
+790,,2023-12-27 11:18:20+00:00,2023-12-27 11:18:20+00:00,0,0,DmcGate10,Group object (2),1

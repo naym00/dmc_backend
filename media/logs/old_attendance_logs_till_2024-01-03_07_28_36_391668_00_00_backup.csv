@@ -1,0 +1,4 @@
+ID,username,InTime,OutTime,total_work_minutes,cumalative_work_minutes,device_id,group_id,employee_id
+6645,ja,2024-01-03 06:35:26+00:00,2024-01-03 06:35:26+00:00,0,0,DmcGate10,Group object (2),test_dmc91
+6646,rezvi,2024-01-03 06:52:03+00:00,2024-01-02 18:00:00+00:00,0,0,DmcGate10,Group object (2),1
+6647,rezvi,2024-01-03 06:52:03+00:00,2024-01-03 06:52:03+00:00,0,0,DmcGate10,Group object (2),1

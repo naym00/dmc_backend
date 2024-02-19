@@ -1,0 +1,6 @@
+ID,username,InTime,OutTime,total_work_minutes,cumalative_work_minutes,device_id,group_id,employee_id
+793,Abul Kalam Azad,2023-12-27 11:30:50+00:00,2023-12-27 11:30:50+00:00,0,0,DmcGate10,Group object (2),DMC1113
+794,b,2023-12-27 11:48:07+00:00,2023-12-27 11:48:07+00:00,0,0,DmcGate10,Group object (2),test_dmc2
+795,b,2023-12-27 11:48:17+00:00,2023-12-27 11:48:17+00:00,0,0,DmcGate10,Group object (2),test_dmc2
+796,Abul Kalam Azad,2023-12-27 11:49:31+00:00,2023-12-27 11:49:31+00:00,0,0,DmcGate10,Group object (2),DMC1113
+797,f,2023-12-27 12:08:35+00:00,2023-12-27 12:08:35+00:00,0,0,DmcGate10,Group object (2),test_dmc6

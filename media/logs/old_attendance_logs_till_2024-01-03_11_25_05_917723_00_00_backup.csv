@@ -1,0 +1,11 @@
+ID,username,InTime,OutTime,total_work_minutes,cumalative_work_minutes,device_id,group_id,employee_id
+6658,da,2024-01-03 04:47:02+00:00,2024-01-03 04:47:02+00:00,0,0,DmcGate10,Group object (2),test_dmc41
+6659,ea,2024-01-03 04:45:04+00:00,2024-01-03 08:12:01+00:00,0,0,DmcGate10,Group object (2),test_dmc51
+6660,Miraz,2024-01-03 09:24:52+00:00,2024-01-03 08:36:09+00:00,0,0,DmcGate10,Group object (23),DMC2
+6661,aa,2024-01-03 09:01:06+00:00,2024-01-03 07:17:09+00:00,0,0,DmcGate10,Group object (2),test_dmc11
+6662,rezvi,2023-12-24 03:16:42+00:00,2024-01-03 06:52:03+00:00,0,0,DmcGate10,Group object (2),1
+6663,ja,2023-12-27 09:07:35+00:00,2024-01-03 06:35:26+00:00,0,0,DmcGate10,Group object (2),test_dmc91
+6664,Moshiur Rahman Shondhi,2023-12-27 14:24:16+00:00,2024-01-01 09:23:09+00:00,0,0,DmcGate10,Group object (2),DMC24
+6665,ba,2023-12-28 03:38:10+00:00,2024-01-03 05:34:02+00:00,0,0,DmcGate10,Group object (2),test_dmc21
+6666,ca,2023-12-28 07:22:50+00:00,2024-01-02 08:06:15+00:00,0,0,DmcGate10,Group object (2),test_dmc31
+6667,adsfgsd,2023-12-31 04:40:25+00:00,2024-01-03 07:29:45+00:00,0,0,DmcGate10,Group object (2),DMC200
